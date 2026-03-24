@@ -1,0 +1,6 @@
+skynettechnologies-skynet-accessibility-scanner:
+    admin:
+        settings:
+            header_title: My Scans.
+            section_title: SkynetAccessibility Scanner Setting
+

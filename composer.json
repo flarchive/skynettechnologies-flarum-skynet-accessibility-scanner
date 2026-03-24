@@ -1,0 +1,39 @@
+{
+    "name": "skynettechnologies/flarum-skynet-accessibility-scanner",
+    "description": "Scan, monitor, and identify website accessibility issues across WCAG 2.0, 2.1, 2.2, ADA, Section 508, EN 301 549, UK Equality Act, Australian DDA, and Canada ACA. Get simple issue highlights with recommended fixes.",
+    "keywords": [
+        "extension",
+        "flarum",
+        "scanner"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Skynet Technologies USA LLC",
+            "email": "developer3@skynettechnologies.com"
+        }
+    ],
+    "require": {
+        "flarum/core": "^1.2"
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "SkynetAccessibility Scanner",
+            "category": "feature",
+            "icon": {
+                "image": "resources/assets/logo.png",
+                "backgroundSize": "95%",
+                "backgroundPosition": "center"
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Skynettechnologies\\SkynetAccessibilityScanner\\": "src/"
+        }
+    },
+    "require-dev": {
+        "flarum/phpstan": "*"
+    }
+}
