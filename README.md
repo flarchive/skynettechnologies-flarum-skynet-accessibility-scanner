@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of skynettechnologies/flarum-skynet-accessibility-scanner.** Not for installation: use [Packagist](https://packagist.org/packages/skynettechnologies/flarum-skynet-accessibility-scanner) or the [upstream repository](https://github.com/skynettechnologies/flarum-skynet-accessibility-scanner).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/skynettechnologies-flarum-skynet-accessibility-scanner/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.2`
+**1** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/skynettechnologies-flarum-skynet-accessibility-scanner/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2026-03-24 | `^1.2` | [Browse](https://github.com/flarchive/skynettechnologies-flarum-skynet-accessibility-scanner/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/skynettechnologies-flarum-skynet-accessibility-scanner.json](https://github.com/flarchive/archive-index/blob/main/packages/skynettechnologies-flarum-skynet-accessibility-scanner.json)
 
